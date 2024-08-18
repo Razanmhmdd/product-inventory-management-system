@@ -30,7 +30,8 @@ Run the Application:
 
 Navigate to the project directory and open the application in your browser.
 Admin Login
-Username: user
+Username: user,
+
 Password: user@123
 Usage
 Login:
